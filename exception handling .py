@@ -27,17 +27,17 @@ else:
     print("no error")    
 
 #raise operatio, The raise command allows you to manually raise an exception.    
-try:
-    raise IndexError("this index is not allowed")#this is how we use raise operation in exception handling
-except:
-    print("print the right index")
-    raise #donot forget to close the raise with raise key word
+# try:
+#     raise IndexError("this index is not allowed")#this is how we use raise operation in exception handling
+# except:
+#     print("print the right index")
+#     raise #donot forget to close the raise with raise key word
 
 # finally operation with exception handling
 '''The finally block is executed independently of exceptions being raised
 or not.'''
 
-#if you want to see the output then commnet the line number 30,31,32,33,34
+#if you want to see the output then comment the line number 30,31,32,33,34
 try:
     print(my-first-name)
 except NameError:
