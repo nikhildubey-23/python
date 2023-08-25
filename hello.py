@@ -2,6 +2,7 @@
 #we use print statment in python to print String
 print("hello world \n")
 print("jai hind , jai bharat \n")
+print(" jai chhatishgarh\n")
 # **********comment's************
 # comment's are the line ignor by compiler while compling the python statment 
 # there are two types of comment in python 1 :- single line comment which we do by the help of #
